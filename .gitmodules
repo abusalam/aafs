@@ -1,0 +1,6 @@
+[submodule "aafs-ui"]
+	path = aafs-ui
+	url = git@github.com:snbhattacharjya/aafs-ui.git
+[submodule "aafs-api-php"]
+	path = aafs-api-php
+	url = git@github.com:snbhattacharjya/aafs-api-php.git
